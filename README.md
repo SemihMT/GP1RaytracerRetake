@@ -1,7 +1,8 @@
 # GP1RaytracerRetake
 
 ## Overview
-The retake project for Graphics Programming 1 @ Digital Arts & Entertainment
+The retake project for Graphics Programming 1 @ Digital Arts & Entertainment.
+
 Continued from the original raytracer made during the course, but added the BVH acceleration structure as the extra feature.
 
 ## Examples
